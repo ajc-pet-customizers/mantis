@@ -2,7 +2,7 @@
 Welcome to the Phantom Customizer's GitHub page! This project (website in progress) allows you to customize your own Pet Mantis as seen in the game [Animal Jam Classic](https://classic.animaljam.com/en) (AJC). (Note: this website does not create a mantis in-game, but allows you to see what it would look like.)
 
 # Preview
-Coming soon
+![Preview](https://github.com/ajc-pet-customizers/mantis/blob/main/misc_assets/mantis%20customizer%20preview.PNG)
 
 # Features
 * Completely free!
